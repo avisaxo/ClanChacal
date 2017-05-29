@@ -1,0 +1,30 @@
+1) Al Valor
+2) Al Desempeño
+3) Al Desempeño como fusilero
+4) Al Desempeño como AT
+5) Al Desempeño como Granadero
+6) Al Desempeño como Apoyo
+7) Al Desempeño como Medico
+8) Al Liderazgo
+9) A la Asistencia
+10) Al Merito
+11) A la Fidelidad
+12) De Honor
+
+Cambiar Logo a Clan Chacal **
+Poner Rango **
+Unidades todo mayuscula */
+Cambiar Sto por Sgt **
+Principio Fusilero **
+Cuando se escribe no se ve bien
+Correjir Aries **
+Unidades que respete la autorizacion **
+Fondo de unidades en blanco **
+Fondo de jugador Plano **
+Solo cambia 1 vez los rangos **
+Poner color especial para los que no tienen instruccion basica
+En perfil que salgan las fechas de instruccion basica
+Que ponga la fecha del dia del celular
+poner boton de acceso rapido en cabecera
+Hoplita sin s
+Zerozulu no lo encuentra

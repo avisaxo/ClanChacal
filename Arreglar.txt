@@ -1,0 +1,7 @@
+Actualizar unidades
+Sacar descripcion en fechas
+Verificar campos
+Reset Amonestaciones leves cada 30 dias
+Poner paneles
+Que sume las inasistencias
+Poner Rangos
