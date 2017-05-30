@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1C02F596-7B01-CF6A-82F3-AA67360649E8}</ProjectGuid>
+    <ProjectGuid>{3234C519-D58E-259B-973E-4DCE784B2027}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -161,46 +161,46 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
  <Reference Include="Firebase.Editor">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/Firebase/Editor/Firebase.Editor.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/Firebase/Editor/Firebase.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Firebase.App">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
  </Reference>
  <Reference Include="Firebase.Auth">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/Firebase/Plugins/Firebase.Auth.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/Firebase/Plugins/Firebase.Auth.dll</HintPath>
  </Reference>
  <Reference Include="Firebase.Database">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/Firebase/Plugins/Firebase.Database.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/Firebase/Plugins/Firebase.Database.dll</HintPath>
  </Reference>
  <Reference Include="Firebase.Invites">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/Firebase/Plugins/Firebase.Invites.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/Firebase/Plugins/Firebase.Invites.dll</HintPath>
  </Reference>
  <Reference Include="Firebase.Messaging">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/Firebase/Plugins/Firebase.Messaging.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/Firebase/Plugins/Firebase.Messaging.dll</HintPath>
  </Reference>
  <Reference Include="Google.MiniJson">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
  </Reference>
  <Reference Include="Google.Sharpen">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/Firebase/Plugins/Google.Sharpen.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/Firebase/Plugins/Google.Sharpen.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Compat">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/Firebase/Plugins/Unity.Compat.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/Firebase/Plugins/Unity.Compat.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Tasks">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/Firebase/Plugins/Unity.Tasks.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/Firebase/Plugins/Unity.Tasks.dll</HintPath>
  </Reference>
  <Reference Include="Ionic.Zip">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/MaterialUI/Utils/Editor/UnityZip/Ionic.Zip.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/MaterialUI/Utils/Editor/UnityZip/Ionic.Zip.dll</HintPath>
  </Reference>
  <Reference Include="Google.IOSResolver">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/PlayServicesResolver/Editor/Google.IOSResolver.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/PlayServicesResolver/Editor/Google.IOSResolver.dll</HintPath>
  </Reference>
  <Reference Include="Google.JarResolver">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/PlayServicesResolver/Editor/Google.JarResolver.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/PlayServicesResolver/Editor/Google.JarResolver.dll</HintPath>
  </Reference>
  <Reference Include="Google.VersionHandler">
- <HintPath>C:/Users/Pablo/Desktop/Chacal Programacion/MyTeam-master/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
+ <HintPath>C:/Users/Pablo/Desktop/ClanChacal/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -217,7 +217,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{08728502-9D44-217B-E42B-5A987151D1A2}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{47BD8DC1-4441-A386-8E79-DB5F4113F246}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
