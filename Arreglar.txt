@@ -1,5 +1,5 @@
-Actualizar unidades
 Verificar campos
 Reset Amonestaciones leves cada 30 dias
 Poner paneles
 Que sume las inasistencias
+Editar deacuerdo al tipo de autorizacion.
